@@ -7,7 +7,7 @@
     <author email="brian@asimail.com" href="http://http://www.nationwidepagroupinc.com/">
         IT Team
     </author>
-    <content src="index.html" />
+    <content src="www/index.html" />
     <preference name="permissions" value="none" />
     <preference name="orientation" value="default" />
     <preference name="target-device" value="universal" />
